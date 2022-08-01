@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/aldijoko/clipboard-landing)
-- Live Site URL: [Live Url](https://clipboardlanding.netlify.app)
+- Live Site URL: [Live Url](https://clipboardlandingaljok.netlify.app)
 
 ## My process
 
